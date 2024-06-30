@@ -14,7 +14,6 @@ This repository contains the source code accompanying the paper:
 
 - **BCT.m**: Core code of the BCT algorithm.
 - **run_yaleb.m**: Demo on YaleB dataset.
-- **demoGSL.m**: Evaluate GSL/NGSL on an example task (C-W in 4DA dataset).
 
 ## Other Methods Compared in the Paper on YaleB Dataset
 
